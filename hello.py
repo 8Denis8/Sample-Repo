@@ -23,7 +23,7 @@ r = requests.get("https://www.trafficschool.com/course/en/login.asp")
 print(r.status_code)
 print(r.ok)
 
-# print("--------------------------")
+print("--------------------------")
 
 # age = 18
 
